@@ -1,7 +1,7 @@
 import java.util.*;
 
-public class flow{
+public class hello{
     public static void main(String args[]){
-        System.out.println("gitflow Test");
+        System.out.println("hello");
     }
 }
